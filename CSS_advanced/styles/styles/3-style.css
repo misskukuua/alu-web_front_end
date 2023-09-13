@@ -16,11 +16,11 @@ a{
 }
 
 .card-category {
-    color: #D73953;
+    color: var(--color-primary);
 }
 
 .section-tagline{
-    color: #D73953;
+    color: var(--color-primary);
 }
 
 :root {
@@ -30,9 +30,4 @@ a{
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
-}
-
-.section-tagline,
-.card-category {
-    color: var(--color-primary);
 }
