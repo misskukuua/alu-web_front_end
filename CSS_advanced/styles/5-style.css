@@ -46,10 +46,10 @@ h6 {
 }
 
 html {
-    font-size: var(--html-font-size);
+    font-size: 62.5%;
   }
 
-  .custom-font {
+  /* .custom-font {
     font-size: var(--font-size-small);
-  }
+  } */
   
