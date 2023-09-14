@@ -442,7 +442,9 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-* {
+*,
+*:before,
+*:after{
     box-sizing: border-box;
   }
   
