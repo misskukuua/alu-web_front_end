@@ -551,11 +551,11 @@ html {
     font-size: font-size-small;
     color: text-color;
   }
-  footer ul {
+  .footer ul {
     text-align: right;
   }
 
-  .row:after {
+  .row::after {
     content: "";
     display: table;
     clear: both;
