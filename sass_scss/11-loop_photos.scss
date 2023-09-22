@@ -1,0 +1,7 @@
+@import 'names-and-images';
+
+@each $name, $image in $list-names {
+  .photo-#{$name} {
+    background: image-url('#{$image}') no-repeat;
+  }
+}
