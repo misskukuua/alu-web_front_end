@@ -1,16 +1,16 @@
 /* All names */
 .photo-julien {
-  background: image-url("") no-repeat;
+  background: image-url("photos/") no-repeat;
 }
 
 .photo-john {
-  background: image-url("") no-repeat;
+  background: image-url("photos/") no-repeat;
 }
 
 .photo-sam {
-  background: image-url("") no-repeat;
+  background: image-url("photos/") no-repeat;
 }
 
 .photo-damian {
-  background: image-url("") no-repeat;
+  background: image-url("photos/") no-repeat;
 }/*# sourceMappingURL=11-loop_photos.css.map */
