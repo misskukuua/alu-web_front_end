@@ -1,0 +1,10 @@
+$Tcolor: #3D3D3D;
+$Rcolor: #FF0000;
+
+body {
+  color: $Tcolor;
+
+  > .red {
+    color: $Rcolor;
+  }
+}
