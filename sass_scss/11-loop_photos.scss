@@ -1,4 +1,4 @@
-@import 'names-and-images';
+@import '$list-names';
 
 @each $name, $image in $list-names {
   .photo-#{$name} {
