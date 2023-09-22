@@ -1,0 +1,15 @@
+$TextColor: #3D3D3D;
+$BgColor: #6D6D6D;
+
+body {
+  color: $TextColor;
+  background-color: $BgColor;
+}
+
+p {
+  color: $TextColor;
+}
+
+h2 {
+    background-color: $BgColor;
+}
