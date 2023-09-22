@@ -1,5 +1,9 @@
-$TextColor: #3D3D3D;
+$Color: #3D3D3D;
 
-body, p {
-  color: $myTextColor;
+body {
+  color: $Color;
+}
+
+p {
+  color: $Color;
 }
