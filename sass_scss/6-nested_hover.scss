@@ -1,11 +1,6 @@
-$bcolor:  #FF0000;
-$hcolor: #00FF00;
-
 button {
-    color: $bcolor;
-  
-    &:hover {
-      color: $hcolor;
-    }
-  }
-  
+  color: #FF0000;
+}
+button:hover {
+  color: #00FF00;
+}
