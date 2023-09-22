@@ -1,6 +1,11 @@
-button {
-  color: #FF0000;
-&:hover {
-    color: #00FF00;
+$button-colors: (#FF0000, #00FF00);
+
+@for $i from 1 through length($button-colors) {
+  button {
+    color: nth($button-colors, $i);
+
+    &:hover {
+      color: nth($button-colors, $i + 1);
+    }
   }
 }
