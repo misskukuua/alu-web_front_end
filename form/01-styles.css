@@ -663,7 +663,7 @@
   /* Basic form
     ============================= */
 
-    .form {
+    form {
         display: flex;
         flex-direction: 1rem 0;
         margin: 0;
